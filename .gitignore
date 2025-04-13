@@ -3,3 +3,6 @@ myenv
 figures
 *.txt
 *.zip
+*.bin
+*.pth
+*.csv
